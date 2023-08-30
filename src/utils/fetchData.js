@@ -8,6 +8,7 @@ export const exerciseOptions = {
 
 };
 
+
 export const youtubeOptions = {
     method: 'GET',
     headers: {
